@@ -1,5 +1,5 @@
 # AccessControlAPI
-Design of RESTful API for Access Control and Batch Updates
+Design of RESTful API for Access Control Data Logging and Batch Updates
 # Centralized Access Control System 
 
 This repository contains the PHP-based APIs and system documentation for the **Internal Access Control System (IACS)**
