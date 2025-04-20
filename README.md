@@ -33,7 +33,6 @@ The APIs are designed to support:
 - **PHP**
 - **MySQL**
 - **XAMPP**
-- **Flutter (frontend)**
 - **Postman** (testing)
 - **Apache JMeter** (load testing)
 
