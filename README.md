@@ -6,8 +6,8 @@ This repository contains the PHP-based APIs and system documentation for the **I
 
 ## 📁 Contents
 
-- `normal_api/insert_log_api.php`: Receives real-time entry/exit log data from hardware.
-- `batch_api/batch_api.php`: Handles CSV data exports from location-specific logs.
+- `normal_api/insert_log.php`: Receives real-time entry/exit log data from hardware.
+- `batch_api/batch_log2.php`: Handles CSV data exports from location-specific logs.
 - `report/222003168P2.docx`: Full technical and performance report.
 
 ---
