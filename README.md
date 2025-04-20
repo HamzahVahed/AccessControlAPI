@@ -2,7 +2,7 @@
 Design of RESTful API for Access Control and Batch Updates
 # Centralized Access Control System 
 
-This repository contains the PHP-based APIs and system documentation for the **Internal Access Control System (IACS)** designed for the EECE building at UKZN.
+This repository contains the PHP-based APIs and system documentation for the **Internal Access Control System (IACS)**
 
 ## 📁 Contents
 
